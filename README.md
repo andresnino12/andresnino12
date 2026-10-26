@@ -1,12 +1,6 @@
 # 🎮 ¡Hola! Soy Andrés Niño
 
-### Game Developer en formación · Unity · C#
-
-Soy **Game Developer en formación**, actualmente terminando mi proceso de formación en el **SENA CGMLTI**.
-
-Mi principal enfoque es la **programación y el desarrollo de gameplay utilizando Unity y C#**, creando mecánicas, sistemas de juego, interacciones y experiencias 2D, 3D y de Realidad Aumentada.
-
-También cuento con conocimientos en **modelado 3D, animación, iluminación, texturizado y diseño de interfaces**.
+Desarrollador de videojuegos en formación, con conocimientos en Unity y programación en C#. Experiencia en el desarrollo de mecánicas de juego, programación de interacciones, físicas, interfaces de usuario y sistemas de gameplay. He participado en proyectos de videojuegos 2D y 3D, realidad aumentada y prototipos interactivos. Me caracterizo por mi pensamiento lógico, capacidad para resolver problemas, trabajo en equipo y disposición para aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
 
 ---
 
